@@ -149,3 +149,7 @@ body {
             -180px -250px,
             130px -150px;
 }
+
+img {
+  border-radius:50%;
+}
