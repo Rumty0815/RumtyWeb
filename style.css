@@ -159,19 +159,3 @@ link {
     border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
     width:  180px;       /* ※縦横を同値に */
     height: 180px;       /* ※縦横を同値に */
-
-body {
-  background: #3bb7f9;
-  animation: bgColor 10s infinite;
-}
-@keyframes bgColor {
-  0% {
-    background: #3bb7f9;
-  }
-  50% {
-    background: #0774af;
-  }
-  100% {
-    background: #3bb7f9;
-  }
-}
